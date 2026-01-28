@@ -1,13 +1,13 @@
 ### Um pouco sobre mim :)
 
-Meu nome é Gustavo, tenho 20 anos e sempre fui apaixonado por tecnologia desde pequeno. Sou um entusiasta e curioso da área. Curto bastante descobrir e aprender coisas novas sobre tudo, praticar esportes e jogar. E como dev, cada desafio é bem vindo. Tô sempre codando umas coisas aleatórias e legais por aí...
+Meu nome é Gustavo, sou estudante de programação, tenho 21 anos e sempre fui apaixonado por tecnologia desde pequeno. Sou um entusiasta e curioso da área. Curto bastante descobrir e aprender coisas novas sobre tudo, praticar esportes e jogar. E como dev, cada desafio é bem vindo. Tô sempre codando umas coisas aleatórias e legais por aí...
 
 ##
 
 #### Tecnologias e Skills  
 Desenvolvimento Front-end e Back-end  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
